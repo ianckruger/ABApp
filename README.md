@@ -23,6 +23,9 @@ The casual slack app for orgs.
     - Automatically Add to Everyones Calendar
     - Send a reminder (Options for Morning of, Hour before, 30 minutes before, custom)
     - WhenToMeet availability feature per user (Can change whenever)
+    - Event signup
+        - Headcount vs "signup" (everyone expected to attend vs who wants to do the event)
+        - fill out form ( Who has car, extra information )
 
 - **Announcments and Messages**
     - Announce to the group
@@ -37,11 +40,22 @@ The casual slack app for orgs.
     - not professional like Slack
     - not too casual like instagram
     - make messages feel iMessage
-
-
-
+    - Emojis instead of yes or no for polls and stuff
 
 ## Problems
 - Multiple GC's (Too many people for 1)
     - Create large groupchat
     - Instagram feels too professional
+
+
+
+## User Discovery
+    - Streaks for meetings attended? 
+        - Could be trophies
+        - Only admin can see?
+
+    - Message reactions
+        - Emojis for yes or no
+        - iMessage vs Insta vs discord style
+
+    - What features theyd want as members vs as exec
